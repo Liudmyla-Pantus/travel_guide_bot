@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual env
+.venv/
+env/
+venv/
+
+# IDE / OS files
+.idea/
+.vscode/
+.DS_Store
+
+# Sensitive data
+.env
+*.env
+openai-token.txt
+token.txt
